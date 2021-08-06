@@ -63,6 +63,7 @@ brew "k9s"
 brew "k3d"
 brew "shellcheck"
 brew "pylint"
+brew "hadolint"
 
 # Casks
 #cask "postman"
