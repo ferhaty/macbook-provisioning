@@ -15,7 +15,7 @@ Install Homebrew
 Customize the `Brewfile` where needed.
 
 ```bash
-brew bundle
+brew bundle -v
 ```
 
 ## Install Atom packages
