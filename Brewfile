@@ -62,6 +62,7 @@ brew "pylint"
 brew "hadolint"
 brew "mysql-client"
 brew "kubescape"
+brew "fd"
 
 # Casks
 cask "java"
