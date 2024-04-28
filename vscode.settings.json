@@ -1,0 +1,69 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontFamily": "Menlo, Consolas, DejaVu Sans Mono, monospace",
+    "editor.fontSize": 19,
+    "editor.fontWeight": "50",
+    "oneDarkPro.editorTheme": "One Dark Pro Flat",
+    "workbench.fontAliasing": "antialiased",
+    "workbench.sideBar.location": "right",
+    "breadcrumbs.enabled": false,
+    "editor.cursorBlinking": "blink",
+    "editor.folding": true,
+    "editor.foldingStrategy": "auto",
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.minimap.enabled": false,
+    "editor.occurrencesHighlight": "off",
+    "editor.roundedSelection": false,
+    "editor.selectionHighlight": false,
+    "editor.scrollBeyondLastLine": false,
+    "explorer.decorations.colors": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.editor.showIcons": true,
+    "workbench.startupEditor": "none",
+    "workbench.tree.renderIndentGuides": "none",
+    "oneDarkPro.color": {
+        "chalky": "#ABB1BD",
+        "coral": "#C66B74",
+        "dark": "",
+        "error": "",
+        "fountainBlue": "#7BB5C0",
+        "green": "#9CB878",
+        "invalid": "",
+        "lightDark": "#5E636F",
+        "lightWhite": "",
+        "malibu": "#7CADEC",
+        "purple": "#B377D9",
+        "whiskey": "#C29869",
+        "deepRed": ""
+    },
+    "editor.links": false,
+    "editor.matchBrackets": "never",
+    "subtleBrackets.style": {
+      "borderWidth": "1px",
+      "borderColor": "#528BFF"
+    },
+    "todohighlight.keywords": [
+        {
+          "text": "TODO:",
+          "color": "#C678DD",
+          "backgroundColor": "transparent"
+        },
+        {
+          "text": "NOTE:",
+          "color": "#C678DD",
+          "backgroundColor": "transparent"
+        },
+        {
+          "text": "FIXME:",
+          "color": "#C678DD",
+          "backgroundColor": "transparent"
+        }
+    ],
+    "editor.scrollbar.verticalScrollbarSize": 6,
+    "editor.scrollbar.horizontalScrollbarSize": 6,
+    "editor.guides.indentation": false,
+    "extensions.ignoreRecommendations": true,
+    "workbench.iconTheme": "file-icons",
+    "oneDarkPro.italic": false,
+    "workbench.editor.enablePreview": false
+}
