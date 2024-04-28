@@ -18,10 +18,12 @@ Customize the `Brewfile` where needed.
 brew bundle -v
 ```
 
-## Install Atom packages
+## Auto update
 
-```bash
-apm install --packages-file atom-package-list.txt
+Enable auto update every 24 hours.
+
+```
+brew autoupdate start 86400 --upgrade --cleanup --immediate --sudo
 ```
 
 ## Install pip packages
